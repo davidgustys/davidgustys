@@ -11,12 +11,12 @@ You are quite welcome to visit me at [davidgustys.com](https://davidgustys.com) 
 
 <br />
 <div align="center">
-    <a href="https://twitter.com/davidgustys" target="_blank"><img alt="Twitter"
-            src="https://img.shields.io/badge/Twitter/X-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://twitter.com/davidgustys" target="_blank"><img alt="Twitter/X"
+            src="https://img.shields.io/badge/Twitter-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/davidgustys" target="_blank"><img alt="LinkedIn"
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:hello@davidgustys.com" target="_blank"><img alt="Gmail"
-            src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+    <a href="mailto:hello@davidgustys.com" target="_blank"><img alt="Mail"
+            src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     <a href="https://t.me/davidgustys"><img alt="Telegram"
             src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
