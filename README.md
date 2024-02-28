@@ -6,7 +6,7 @@
 <samp>I'm **David Gustys** and you have reached my github profile page.<br/>
 You are quite welcome to visit me at [davidgustys.com](https://davidgustys.com) as well.
 
-<samp>I’m a Full-Stack web, mobile and systems engineer. I provide full-cycle software development services from an Idea to Launch to further scaling and support. Both consulting and hands-on programming.    
+<samp>I'm a Full-Stack web, mobile, and systems engineer. I provide full-cycle software development services from an Idea to Launch to further scaling and support. Both consulting and hands-on programming.    
 
 
 <br />
@@ -21,19 +21,19 @@ You are quite welcome to visit me at [davidgustys.com](https://davidgustys.com) 
             src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
-<samp><h3>Little more about me</h3>
+<samp><h3>Here is a little more about me</h3>
 <samp><p align="center">
  - I'm currently mainly working and leading an engineering team at [TripAdd](https://tripadd.com).
  
- - My hobby is reading books, playing basketball, playing games.
+ - My hobbies are reading books, playing basketball, and playing games.
 
- - I love to collect movies, tv shows, music - that inspire me.
+ - I love to collect movies, TV shows, and music - that inspire me
 
  - Sometimes, I write small poems, stories too.
 
- - Spending time outdoors especially with family is best leisure time for me.
+ - Spending time outdoors, especially with my family, is my best leisure time.
 
- - Currently learning on how to build LLM (think chatGPT v2) and tune it
+ - Currently learning how to build LLM (think chatGPT v2) and tune it
 </p>
 
 
