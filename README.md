@@ -1,14 +1,15 @@
 <img align="left" src="https://davidgustys.com/static/images/external/crow.png">
 <br />
 
-### Hey!
+### Crowdy!
 
-<samp>Hello, this is [David Gustys](https://davidgustys.com)
+<samp>I'm **David Gustys** and you have reached my github profile page.<br/>
+You are quite welcome to visit me at [davidgustys.com](https://davidgustys.com) as well.
 
 <samp>I’m a Full-Stack web, mobile and systems engineer. I provide full-cycle software development services from an Idea to Launch to further scaling and support. Both consulting and hands-on programming.    
 
 
-
+<br />
 <div align="center">
     <a href="https://twitter.com/davidgustys" target="_blank"><img alt="Twitter"
             src="https://img.shields.io/badge/Twitter/X-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
